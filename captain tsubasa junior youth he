@@ -1,43 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", Captain Tsubasa: Junior Youth Arc
-#EXTINF:0, 1. El desafío comienza
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 1. El desafío comienza
 https://dl.dropbox.com/scl/fi/c2gvaicx9bepzxzc4272e/01.MP4?rlkey=yzv245gyas3l81tkoylms1ezi&st=zcjsz7kx&dl=0
-#EXTINF:0, 2. La selección juvenil
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 2. La selección juvenil
 https://dl.dropbox.com/scl/fi/tocn8atfffhgsnso5yqqu/02.mp4?rlkey=8kw36qsrljekh1b0yrg5wt2hh&st=iraxb5o7&dl=0
-#EXTINF:0, 3. El primer partido
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 3. El primer partido
 https://dl.dropbox.com/scl/fi/v3tifyqyyc1z0ut4nzou4/03.mp4?rlkey=suvlbyyphzv5ov27tj7c1vyrn&st=l6e8cbjl&dl=0
-#EXTINF:0, 4. La técnica de Wakabayashi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 4. La técnica de Wakabayashi
 https://dl.dropbox.com/scl/fi/vnvvhgza8nj5tu6vy6ief/04.mp4?rlkey=e3gjn6er5m5z99ti9b2u9sewq&st=u6gxsmuv&dl=0
-#EXTINF:0, 5. El rival de Hyuga
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 5. El rival de Hyuga
 https://dl.dropbox.com/scl/fi/1man8u4oejdenosgjs3ra/05.mp4?rlkey=zcba3h8fs284vebtqp4jlxwpv&st=w78jtrxa&dl=0
-#EXTINF:0, 6. La estrategia de Misaki
-https://dl.dropbox.com/scl/fi/1man8u4oejdenosgjs3ra/05.mp4?rlkey=zcba3h8fs284vebtqp4jlxwpv&st=p17iu5q2&dl=0
-#EXTINF:0, 7. El partido contra Tailandia
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 6. La estrategia de Misaki
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 7. El partido contra Tailandia
 https://dl.dropbox.com/scl/fi/56qzwnwgi0u3sagi8vnci/07.mp4?rlkey=jjh9k5ifikk50bj8322g0d1dz&st=lbs9a3lg&dl=0
-#EXTINF:0, 8. La victoria es posible
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 8. La victoria es posible
 https://dl.dropbox.com/scl/fi/ji0sk2t81e474g964cigr/08.mp4?rlkey=hn2p4ncpajm6x30wdr7bt43bo&st=mlguzkv2&dl=0
-#EXTINF:0, 9. El desafío de la India
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 9. El desafío de la India
 https://dl.dropbox.com/scl/fi/pcz63jq8yh5nf4d4n3zz3/09.mp4?rlkey=3rqmz6a2f2m5ztvpyt5kof16l&st=nye0qczh&dl=0
-#EXTINF:0, 10. La táctica de Sawada
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 10. La táctica de Sawada
+https://dl.dropbox.com/scl/fi/bvqy20i5e00zgnc5jz6sm/10.mp4?rlkey=dactbykiddof7lhiws5zek8wo&st=jyd9gkn9&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 11. El partido contra Arabia Saudita
 
-#EXTINF:0, 11. El partido contra Arabia Saudita
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 12. La última oportunidad
 
-#EXTINF:0, 12. La última oportunidad
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 13. La clasificación para el Mundial
+https://dl.dropbox.com/scl/fi/ph8dayy242uisgjeaoy6l/13.mp4?rlkey=sfhh2u227usavcwke6y0cfpld&st=w2m7k0a8&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 14. El rival de Japón
+https://dl.dropbox.com/scl/fi/8j7js39kprx4n8vzkw5rv/14.mp4?rlkey=gx41anqhjgc35eo0jg8wh9sjq&st=eg8810sx&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 15. El partido contra Francia
 
-#EXTINF:0, 13. La clasificación para el Mundial
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 16. La técnica de Pierre
 
-#EXTINF:0, 14. El rival de Japón
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 17. La estrategia de Tsubasa
 
-#EXTINF:0, 15. El partido contra Francia
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s4CTeDetytn3yCtvoRFuUeZlrgy.jpg", 18. El partido contra
 
-#EXTINF:0, 16. La técnica de Pierre
-
-#EXTINF:0, 17. La estrategia de Tsubasa
-
-#EXTINF:0, 18. El partido contra Brasil
-
-#EXTINF:0, 19. La táctica de Roberto
-
-#EXTINF:0, 20. La última batalla
 
 
